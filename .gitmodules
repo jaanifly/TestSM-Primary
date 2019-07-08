@@ -1,0 +1,3 @@
+[submodule "TestSM-RealSM"]
+	path = TestSM-RealSM
+	url = git@github.com:jaanifly/TestSM-RealSM.git
